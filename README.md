@@ -4,6 +4,8 @@ It is a very basic program designed on python for Customer Management
 Pre- Requisites- 
 * Basic Python Knowlege
 * List in Python 
+* Loops 
+* Dictionary
 
 
 That's it !! 	Go on with the program 
