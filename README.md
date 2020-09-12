@@ -1,4 +1,4 @@
-# Customer-Management-System
+# Customer-Management-System ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=az/CMS)
 It is a very basic program designed on python for Customer Management
 
 Pre- Requisites- 
